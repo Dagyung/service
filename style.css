@@ -1,0 +1,29 @@
+body{
+    margin: 0%;
+}
+
+    li {
+        list-style-type: none;
+        
+    }
+body {
+    background-color: black;
+    color: white
+}
+.portrait{
+    background-image:
+    url(images/developer.jpg);
+    padding-top: 56.25%;
+    background-position: center;
+    background-size: cover;
+}
+.profile{
+    padding:6%; 
+}
+
+.list li:hover{
+    background-position-y: bottom
+}
+.name-job{
+    display: inline-block;
+}

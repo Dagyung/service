@@ -1,0 +1,22 @@
+body{
+    margin: 0%;
+}
+
+    li {
+        list-style-type: none;
+        color: white
+    }
+body {
+    background-color: black;
+    color: white
+}
+.portrait{
+    background-image:
+    url(images/recode.jpeg);
+    padding-top: 56.25%;
+    background-position: center;
+    background-size: cover;
+}
+.profile{
+    padding:6%; 
+}
